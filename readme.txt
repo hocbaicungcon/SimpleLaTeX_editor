@@ -1,0 +1,5 @@
+It is a mini-project on creating a "SIMPLE LaTeX EDITOR".
+Team members:
+MUHASIN RASHID(12003773)
+N R PRAJITH PRASAD(12003775)
+SHAMEEM  E(12003804)
